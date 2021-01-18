@@ -107,7 +107,7 @@ opacity: 1;
 }
 #white{
     position: absolute;
-      top: 30%;
+      top: 85%;
       left: 5%;
       z-index: 1;
 }
@@ -155,7 +155,7 @@ top: 60%;
 @media only screen and (min-width: 2000px) {
   
   #white{
-top: 80%;
+top: 60%;
       left: 15%;
   }
 }
